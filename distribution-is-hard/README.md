@@ -21,7 +21,7 @@ This isn't marketing advice. It's an operating system built from real patterns: 
 
 ### The Book
 
-See /book/distribution-is-hard.md
+See [Read the book](Distribution Is Hard V3.md)
 
 ## License
 
